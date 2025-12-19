@@ -1,20 +1,22 @@
-# Software Developer Folio ⚡️ [![GitHub](https://img.shields.io/github/license/saadpasta/developer-portfolio?color=blue)](https://github.com/saadpasta/developerFolio/blob/master/LICENSE)
+# Software Developer Folio ⚡️ 
+
+# Lavi – Portfolio
+
+Live site: [View Portfolio]( https://hilarious-yeot-7d7144.netlify.app/)
+
 
 ## A clean, beautiful and responsive portfolio template for Developers!
 
 
 <p align="center">
   <kbd>
-<img src="https://user-images.githubusercontent.com/53429438/106779355-e9cd9e80-666c-11eb-9417-8a4b54441bc6.gif"></img>
+<img src="./assets/images/screenshot.png"></img>
   </kbd>
 </p>
 
 
 Just change `src/portfolio.js` to get your personal portfolio. Customize portfolio theme by using your own color scheme globally in the  `src/_globalColor.scss` file. Feel free to use it as-is or personalize it as much as you want.
 
-If you'd like to **contribute** and make this much better for other users, have a look at [Issues](https://github.com/saadpasta/developerFolio/issues).
-
-Created something awesome for your fork of the portfolio and want to share it? Feel free to open a [pull request](https://github.com/saadpasta/developerFolio/pulls).
 
 ## Table of Contents
 - [Sections](#sections)
@@ -44,7 +46,10 @@ Created something awesome for your fork of the portfolio and want to share it? F
 ✔️ Twitter Timeline\
 ✔️ GitHub Profile
 
-To view a live example, **[click here](https://developerfolio.js.org/)**.
+# Lavi – Portfolio
+
+Live site: [View Portfolio]( https://hilarious-yeot-7d7144.netlify.app)
+
 
 
 ## Getting Started
@@ -72,7 +77,7 @@ From your command line, clone and run developerFolio:
 
 ```bash
 # Clone this repository
-git clone https://github.com/saadpasta/developerFolio.git
+git clone https://github.com/itshivambharti/Lavi.git
 
 # Go into the repository
 cd developerFolio
@@ -129,7 +134,7 @@ If you are seeing something as shown below, follow these [instructions](https://
 
 ![ERROR](https://i.imgur.com/Hj6mu1K.png)
 
-If the above solution still doesn't work, visit the [wiki page](https://github.com/saadpasta/developerFolio/wiki/Github-Setup-For-Open-Source-Projects).
+
 
 ## Linking blogs section to Medium
 
@@ -155,18 +160,18 @@ Set `displayMediumBlogs` to true or false in portofolio.js to display fetched Me
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  title: "Hi all I'm Saad",
+  title: "Hi all I'm Lavi",
   subTitle: emoji("A passionate Full Stack Software Developer 🚀"),
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1phAOm5ZpBw2oa6oWkZ01wuUysuxVVbOI/view?usp=drivesdk"
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7"
+  github: "https://github.com/itshivambharti",
+  linkedin: "https://www.linkedin.com/in/shivam-bharti-7234a8250",
+  gmail: "shivambharti22555@gmail.com",
+  gitlab: "https://gitlab.com/itshivambharti",
+  facebook: "https://www.facebook.com/itshivambharti"
 };
 
 
@@ -225,9 +230,9 @@ The Profile and the Repository information from GitHub is only created at the ti
 
 This section guides you to deploy your portfolio on GitHub pages.
 
-- Navigate to `package.json` and enter your domain name instead of `https://developerfolio.js.org/` in `homepage` variable. For example, if you want your site to be `https://<your-username>.github.io/developerFolio`, add the same to the homepage section of `package.json`.
+- Navigate to `package.json` and enter your domain name instead of `https://hilarious-yeot-7d7144.netlify.app/` in `homepage` variable. For example, if you want your site to be `https://<your-username>.github.io/developerFolio`, add the same to the homepage section of `package.json`.
 
-- In short you can also add `/devloperFolio` to `package.json` as both are exactly same. Upon doing so, you tell `create-react-app` to add the path assets accordingly.
+- In short you can also add `/lavi` to `package.json` as both are exactly same. Upon doing so, you tell `create-react-app` to add the path assets accordingly.
 
 - Optionally, configure the domain. You can configure a custom domain with GitHub Pages by adding a `CNAME` file to the `public/` folder.
 
@@ -252,3 +257,6 @@ For more information, read [hosting on Netlify](https://create-react-app.dev/doc
 - [react-headroom](https://github.com/KyleAMathews/react-headroom)
 - [color-thief](https://github.com/lokesh/color-thief)
 
+# Lavi – Portfolio
+
+Live site: [View Portfolio]( https://hilarious-yeot-7d7144.netlify.app/)
