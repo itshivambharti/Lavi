@@ -10,7 +10,7 @@ Live site: [View Portfolio]( https://hilarious-yeot-7d7144.netlify.app/)
 
 <p align="center">
   <kbd>
-<img src="./assets/images/screenshot.png"></img>
+<img src="src/assets/images/screenshot.png"></img>
   </kbd>
 </p>
 
